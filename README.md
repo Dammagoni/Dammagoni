@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Yadika @Dammagoni
-  - 👀 I’m interested in data engineering, big data technologies, cloud computing, and scalable data solutions.
+  - 👀 I’m interested in data analysis,data science, and data engineering, big data technologies, cloud computing, and scalable data solutions.
   - 🌱 I’m currently learning advanced data engineering techniques and cloud-based data architectures.
   - 💞️ I’m looking to collaborate on exciting data engineering projects and open-source initiatives.
   - 📫 How to reach me yadika.dammagoni27@gmail.com
